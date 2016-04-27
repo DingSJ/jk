@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart>
+	<series>
+		<value xid="0">2010-12-27</value>
+		<value xid="1">2010-12-28</value>
+		<value xid="2">2010-12-29</value>
+		<value xid="3">2010-12-30</value>
+	</series>
+	<graphs>
+		<graph color="#00CC00" title="在线人数统计">
+			<value xid="0">20</value>
+			<value xid="1">30</value>
+			<value xid="2">40</value>
+			<value xid="3">10</value>
+		</graph>
+	</graphs>
+</chart>
